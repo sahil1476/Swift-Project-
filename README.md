@@ -6,7 +6,8 @@ this is project use different component of xcode editor like uiButton, tableView
 You can see sample images of the app, what it looks like after running this code in xcode edito in my Sample Images folder [https://github.com/sahil1476/Swift-Project-/tree/main/sample%20images]
 
 # # # # # # # # # # # 
-to run this project you need to make uicomponent present in xcode to the variable declared in my code . type of component must be same like button must be connected with the type UiButton etc,.
+to run this project you need to make connection of variable declared in my code with uicomponent present in xcode  .
+type of component must be same like button must be connected with the type UiButton etc,.
 
 # # # # # # # # # # #
 
